@@ -9,14 +9,17 @@ cover:
   image: "images/me.jpg"
 ---
 # Introduction
-I am looking forward to be a perfect website builder and love facing all chanllenges. Always curious learn more about software building.
+I am looking forward to be a perfect website builder and love facing all chanllenges. Always curious learn more about software development.
+Called Donphil and i study software engineering in HIBMAT university of buea
 # FIRST LEAVING CERTIFICATE (FSLC)
--Priorit bilingual nursery and primary school
+-Priority bilingual nursery and primary school
 FSLC was obtained in the year 2014
 # Advance level certificate
 Christ The King College Tiko(CKC Tiko)
  GCE advance was obtained in the year 2023
 # Ordinary level certificate
 Started form 1 to 5 in Bilingual Grammar School Molyko(BGS Molyko)
-where i obtained my GCE ordinary level in the year 2020
+where i obtained my GCE ordinary level in the year 2020 with exceptional results
+and am passionate now to futher my studies un software
+
 
